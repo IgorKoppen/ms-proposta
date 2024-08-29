@@ -1,0 +1,11 @@
+{
+"user": {
+"nome": "João",
+"sobrenome": "Silva",
+"cpf": "123.456.789-00",
+"telefone": "11987654321",
+"renda": 3500.00
+},
+"valorSolicitado": 10000.00,
+"prazoParaPagamento": 24
+}
